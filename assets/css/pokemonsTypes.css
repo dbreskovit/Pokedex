@@ -1,0 +1,71 @@
+.normal {
+    background-image: linear-gradient(315deg, #696967 0%, #8c8c8c 74%);
+  }
+  
+  .grass {
+    background-image: linear-gradient(315deg, #49d0b0 0%, #6f86d6 74%);
+  }
+  
+  .fire {
+    background-image: linear-gradient(315deg, #fc6c6d 0%, #ff9a9e 74%);
+  }
+  
+  .water {
+    background-image: linear-gradient(315deg, #78bbfe 0%, #4a90e2 74%);
+  }
+  
+  .electric {
+    background-image: linear-gradient(315deg, #ffe839 0%, #eaca18 74%);
+  }
+  
+  .ice {
+    background-image: linear-gradient(315deg, #98d5d7 0%, #6dd5fa 74%);
+  }
+  
+  .ground {
+    background-image: linear-gradient(315deg, #ca9400 0%, #e1be40 74%);
+  }
+  
+  .flying {
+    background-image: linear-gradient(315deg, #a98ff0 0%, #574291 74%);
+  }
+  
+  .poison {
+    background-image: linear-gradient(315deg, #a040a0 0%, #f161cd 74%);
+  }
+  
+  .fighting {
+    background-image: linear-gradient(315deg, #bf3029 0%, #ee756e 74%);
+  }
+  
+  .psychic {
+    background-image: linear-gradient(315deg, #f65687 0%, #e987b3 74%);
+  }
+  
+  .dark {
+    background-image: linear-gradient(315deg, #725847 0%, #5a4536 74%);
+  }
+  
+  .rock {
+    background-image: linear-gradient(315deg, #b8a137 0%, #f5d76e 74%);
+  }
+  
+  .bug {
+    background-image: linear-gradient(315deg, #92a202 0%, #b7c550 74%);
+  }
+  
+  .ghost {
+    background-image: linear-gradient(315deg, #6e5896 0%, #6f38f6 74%);
+  }
+  
+  .steel {
+    background-image: linear-gradient(315deg, #b9b7cf 0%, #757389 74%);
+  }
+  
+  .dragon {
+    background-image: linear-gradient(315deg, #6f38f6 0%, #a17cff 74%);
+  }
+  
+  .fairy {
+    background-image: linear-gradient(315deg, #f9aec7 0%, #f5d76e 74%);
+  }

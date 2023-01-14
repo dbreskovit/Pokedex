@@ -1,0 +1,30 @@
+:root {
+    --background-color-primary: rgb(255, 255, 255);
+    --background-color-secondary: rgb(244, 244, 248);
+    --background-color-tertiary: rgb(232, 232, 241);
+    --background-color-quaternary: rgb(220, 222, 235);
+    --background-color-quinary: rgb(207, 211, 228);
+    --content-background-color: rgb(255, 255, 255);
+    --content-box-shadow: rgba(108, 121, 219, 0.4) 0px 5px,
+      rgba(108, 121, 219, 0.3) 0px 10px, rgba(108, 121, 219, 0.2) 0px 15px,
+      rgba(108, 121, 219, 0.1) 0px 20px, rgba(108, 121, 219, 0.05) 0px 25px;
+    --h1-color: rgb(0, 0, 0);
+    --button-color: rgb(108, 121, 219);
+    --button-hover-color: rgb(79, 88, 157);
+  }
+  
+  .dark-mode:root {
+    --background-color-primary: rgb(25, 25, 25);
+    --background-color-secondary: rgb(24, 24, 24);
+    --background-color-tertiary: rgb(23, 23, 23);
+    --background-color-quaternary: rgb(20, 20, 20);
+    --background-color-quinary: rgb(11, 11, 11);
+    --content-background-color: rgb(25, 25, 25);
+    --content-box-shadow: rgba(105, 42, 204, 0.4) 0px 5px,
+      rgba(105, 42, 204, 0.3) 0px 10px, rgba(105, 42, 204, 0.2) 0px 15px,
+      rgba(105, 42, 204, 0.1) 0px 20px, rgba(105, 42, 204, 0.05) 0px 25px;
+    --h1-color: rgb(255, 255, 255);
+    --button-color: rgb(105, 42, 204);
+    --button-hover-color: rgb(80, 34, 153);
+    --filter: invert(100%);
+  }
